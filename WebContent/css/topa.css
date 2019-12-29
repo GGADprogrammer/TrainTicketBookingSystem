@@ -1,0 +1,67 @@
+body
+{
+    background-image:url('/img/b.jpg');
+    }
+.tp
+{
+    text-decoration:none;
+    color:#7a7a7a;
+    }
+.tp:link { text-decoration:none;
+              color:#7a7a7a;
+             }		/* 未被访问的链接 */
+.tp:visited {text-decoration:none;
+               color:#7a7a7a;
+               }	/* 已被访问的链接 */
+.tp:hover {text-decoration:none;
+             color:#7a7a7a;
+             }	/* 鼠标指针移动到链接上 */
+.tp:active {text-decoration:none;
+              color:#7a7a7a;
+              }	/* 正在被点击的链接 */
+.tp2
+{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+.tp2:link { text-decoration:none;
+             color:White;
+             }		/* 未被访问的链接 */
+.tp2:visited {text-decoration:none;
+              color:White;
+               }	/* 已被访问的链接 */
+.tp2:hover {text-decoration:none;
+             color:White;
+             }	/* 鼠标指针移动到链接上 */
+.tp2:active {text-decoration:none;
+             color:White;
+              }	/* 正在被点击的链接 */             
+.tp3
+{
+    text-decoration: none;
+    color: #663300;
+    font-size: 20px;
+    line-height: 40px;
+}
+.tp4
+{
+    text-decoration: none;
+    color: #996633;
+    font-size: 15px;
+    line-height: 20px;
+}
+.tp4:link { text-decoration:none;
+             color: #996633;
+             }		/* 未被访问的链接 */
+.tp4:visited {text-decoration:none;
+              color: #996633;
+               }	/* 已被访问的链接 */
+.tp4:hover
+{
+    text-decoration: none;
+    color: #663300;
+}	/* 鼠标指针移动到链接上 */
+.tp4:active {text-decoration:none;
+             color:#663300;
+              }	/* 正在被点击的链接 */  
